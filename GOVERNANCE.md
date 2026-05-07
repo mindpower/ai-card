@@ -13,7 +13,7 @@ The AI Catalog project is governed by the Technical Steering Committee. The init
 
    1. AI Catalog specification;
 
-   2. tooling related to validation of AI Catalogs, and transformation to and from the AI Catalog format; and
+   2. Tooling related to validation of AI Catalogs, and transformation to and from the AI Catalog format; and
 
    3. documentation and other artifacts related to the Project.
 
