@@ -2,11 +2,11 @@
 
 The AI Catalog project is governed by the Technical Steering Committee. The initial Committee has four seats, each held by the following individuals:
 
-| Company | Representative | Title | Contact |
+| Company | Representative | Contact |
 | :--- | :--- | :--- | :--- |
-| Google | Junjie Bu | Senior Staff SWE | https://github.com/mindpower |
-| Microsoft | Darrel Miller | Partner API Architect | https://github.com/darrelmiller |
-
+| Google | Junjie Bu | https://github.com/mindpower |
+| Microsoft | Darrel Miller | https://github.com/darrelmiller |
+| Anthropic | David Soria Parra | https://github.com/dsp-ant |
 ## Mission and Scope of the Project
 
 1. The mission of the Project is to enable discovery of AI services and related artifacts. The Project includes collaborative development of the following components:
