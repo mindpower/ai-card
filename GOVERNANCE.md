@@ -3,7 +3,7 @@
 The AI Catalog project is governed by the Technical Steering Committee. The initial Committee has four seats, each held by the following individuals:
 
 | Company | Representative | Contact |
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- |
 | Google | Junjie Bu | https://github.com/mindpower |
 | Microsoft | Darrel Miller | https://github.com/darrelmiller |
 | Anthropic | David Soria Parra | https://github.com/dsp-ant |
