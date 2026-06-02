@@ -341,7 +341,8 @@ A Trust Manifest MUST contain:
 `identity`
 : A string containing a globally unique URI [[RFC3986]] that serves as
   the primary subject identifier for this artifact. This SHOULD be a
-  DID, SPIFFE ID, or URL.
+  DID, SPIFFE ID, or URL; these are illustrative and the set of
+  identity schemes is open.
 
 When a Trust Manifest appears within a Catalog Entry, the `identity`
 field MUST match the entry's `identifier` field. This binding ensures trust
